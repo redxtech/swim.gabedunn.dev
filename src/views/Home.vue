@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div class="container mx-auto">
-      <h1 class="pt-20 pb-12 text-4xl text-green-900">
-        Gabe's Swim Times
+      <h1 class="py-12 text-6xl text-green-900">
+        Times
       </h1>
       <times-table />
     </div>
